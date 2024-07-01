@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. TAO / Home"
+title                    : "TAO's Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Lu TAO"
 description              : &description "Researcher at Nagoya University"
 url                      : https://lutaonuwhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lutaonuwhu.github.io"
+repository               : "lutaonuwhu/lutaonuwhu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,10 +22,10 @@ repository               : "lutaonuwhu.github.io"
 author:
   # Biographic information
   avatar           : "tao1.jpg"
-  name             : "Dr. Lu TAO"
+  name             : "Lu TAO"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at NU."
-  location         : "Nagoya"
+  location         : "Nagoya, Japan"
   employer         : "Nagoya University"
   uri              : # URL
   email            : "ltao@whu.edu.cn" 
