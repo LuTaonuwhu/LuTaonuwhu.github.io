@@ -6,11 +6,17 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+#plugins:
+#  -jekyll-remote-theme
+
+#remote_theme              : "benbalter/retlab" #"mmistakes/minimal-mistakes"
+#minimal_mistakes_skin     : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"  
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "TAO's Homepage"
 title_separator          : "-"
-name                     : &name "Dr. Lu TAO"
+name                     : &name "Lu TAO"
 description              : &description "Researcher at Nagoya University"
 url                      : https://lutaonuwhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +28,7 @@ repository               : "lutaonuwhu/lutaonuwhu.github.io"
 author:
   # Biographic information
   avatar           : "tao1.jpg"
-  name             : "Lu TAO"
+  name             : "Dr. Lu TAO"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at NU."
   location         : "Nagoya, Japan"

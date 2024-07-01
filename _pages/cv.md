@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+For the Chinese CV, [click here.](/files/CV-TAOLU-NU-1-3.pdf)
+
 Education
 ======
-* **Ph.D.** in ***informatics***, *Nagoya University*, 2023.
-* **M.E.** in ***navigation, guidance, and control***, *Wuhan University*, 2017.
-* **B.S.** in ***geographic information system***, *Wuhan University*, 2014.
+* **Ph.D.** in **informatics**, *Nagoya University, 2023*
+* **M.E.** in **navigation, guidance, and control**, *Wuhan University, 2017*
+* **B.S.** in **geographic information system**, *Wuhan University, 2014*
 
 Work experience
 ======
@@ -39,7 +41,7 @@ Languages
 ======
 * C++
 * Python
-* Chinese, Japanese, English
+* :cn:Chinese, :jp:Japanese, :us:English
 
 Publications
 ======

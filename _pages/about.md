@@ -24,7 +24,7 @@ This figure illustrates my R&D vision, showing that my research interests includ
 
 
 
-:turkey: News 
+:peach: News 
 ======
 - *"Enhancing Autonomous Vehicles’ Situational Awareness with Dynamic Maps: Cooperative Prediction on Edge, Cloud and Vehicle"* was submitted.
 - [*"Geo-spatial and temporal relation driven vehicle motion prediction: A geographic perspective"* was published in ***IEEE TIV***.](https://ieeexplore.ieee.org/abstract/document/10542454)
