@@ -1,6 +1,6 @@
 ---
 title: "Collision Risk Assessment Service for Connected Vehicles"
-excerpt: "A cloud-based collision risk assessment service system using ROS. <br/><img src='/images/my_pictures/CCWS.png' width='400px'>"
+excerpt: "A cloud-based collision risk assessment service system using ROS. <br/><img src='/images/my_pictures/CCWS.png' width='200px'>"
 collection: portfolio
 ---
 
