@@ -13,7 +13,7 @@ I am currently a researcher of [the Institute of Innovation for Future Socity (I
 
 I received my B.S. and M.E. degrees in *geographic information system* and *navigation, guidance, and control* from ***Wuhan University***, in 2014 and 2017 respectively, and the Ph.D. degree in *informatics* from ***Nagoya University*** in 2023.
 
-![Illustration of my R&D vsion](/images/vision.png){:.align-center width="800px"}
+![Illustration of my R&D vsion](/images/my_pictures/vision.png){:.align-center width="800px"}
 This figure illustrates my R&D vision, showing that my research interests include, but are not limited to:
 - Connected Autonomous Vehicles (CAV)
 - High-Defination (HD) map
