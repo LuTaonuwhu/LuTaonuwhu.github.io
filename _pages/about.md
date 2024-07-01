@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ":wave: Hello there, I'm Lu TAO."
+title: ":wave: Hello there, I'm Lu TAO"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-:handshake: Welcome to my homepage.
+Welcome to my homepage. :handshake: :handshake: 
 
 I am currently a researcher of [the Institute of Innovation for Future Socity (InFuS)](https://www.mirai.nagoya-u.ac.jp/) and [Nagoya Univ., Center for Embedded Computing Systems (NCES)](https://www.nces.i.nagoya-u.ac.jp/) at Nagoya university.  
 
