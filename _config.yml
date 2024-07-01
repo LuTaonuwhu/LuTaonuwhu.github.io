@@ -21,7 +21,7 @@ repository               : "lutaonuwhu/lutaonuwhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tao1.jpg"
+  avatar           : "my_pictures/tao1.jpg"
   name             : "Lu TAO"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at NU."
