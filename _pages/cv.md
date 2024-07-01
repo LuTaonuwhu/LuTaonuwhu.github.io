@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D.** in ***informatics***, *Nagoya University*, 2023.
+* **M.E.** in ***navigation, guidance, and control***, *Wuhan University*, 2017.
+* **B.S.** in ***geographic information system***, *Wuhan University*, 2014.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.08 - Present: ***Researcher***
+  * [Institutes of Innovation for Future Society](https://www.mirai.nagoya-u.ac.jp/)
+  * [Center for Embedded Computing Systems](https://www.nces.i.nagoya-u.ac.jp/index.html)
+  * Nagoya University, Nagoya, Japan.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.04 - 2020.04: ***Teaching Assistant***
+  * C Programming Language 
+  * [DAIDO University](https://www.daido-it.ac.jp/)
+  * Nagoya, Japna.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015.07 - 2017.06: ***Internship***
+  * [Wuhan KOTEI Informatics, Co., Ltd](http://www.kotei-info.com/)
+  * Wuhan, China.
+
+* 2016.07 - 2016.09: ***Internship***
+  * [AutoNavi Software Co., Ltd](https://mobile.amap.com/)
+  * Beijing, China.
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* Python
+* Chinese, Japanese, English
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
