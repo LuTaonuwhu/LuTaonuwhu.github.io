@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave: Hello there, I'm Lu TAO!"
+title: ":wave: Hello there, I am Lu TAO!"
 author_profile: true
 redirect_from: 
   - /about/
