@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave: Hello there, I'm Lu TAO"
+title: ":wave: Hello there, I'm Lu TAO!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ Welcome to my homepage. :handshake: :handshake:
 
 I am currently a researcher of [the Institute of Innovation for Future Socity (InFuS)](https://www.mirai.nagoya-u.ac.jp/) and [Nagoya Univ., Center for Embedded Computing Systems (NCES)](https://www.nces.i.nagoya-u.ac.jp/) at Nagoya university.  
 
-I received my B.S. and M.E. degrees in *geographic information system* and *navigation, guidance, and control* from ***Wuhan University***, in 2014 and 2017 respectively, and the Ph.D. degree in *informatics* from ***Nagoya University*** in 2023.
+I received my B.S. and M.E. degrees from ***Wuhan University***, and the Ph.D. degree from ***Nagoya University***.
 
 ![Illustration of my R&D vsion](/images/my_pictures/vision.png){:.align-center width="800px"}
 This figure illustrates my R&D vision, showing that my research interests include, but are not limited to:

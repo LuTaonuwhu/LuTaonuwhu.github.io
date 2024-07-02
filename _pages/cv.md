@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the Chinese CV, [click here.](/files/CV-TAOLU-NU-1-3.pdf)
+[the Chinese CV](/files/CV-TAOLU-NU-1-3.pdf)
 
 Education
 ======
@@ -22,6 +22,7 @@ Work experience
 * 2023.08 - Present: ***Researcher***
   * [Institutes of Innovation for Future Society](https://www.mirai.nagoya-u.ac.jp/)
   * [Center for Embedded Computing Systems](https://www.nces.i.nagoya-u.ac.jp/index.html)
+  * Projects involved: [DM2.0](https://www.nces.i.nagoya-u.ac.jp/ddm2/index.html), [AdMobi-DM2](https://www.nces.i.nagoya-u.ac.jp/admobi-dm2/index.html), [CooL4](https://www.road-to-the-l4.go.jp/activity/theme04/)
   * Nagoya University, Nagoya, Japan.
 
 * 2019.04 - 2020.04: ***Teaching Assistant***
