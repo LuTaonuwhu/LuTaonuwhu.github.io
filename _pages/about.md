@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there :wave::wave:,
+Hello there :wave::wave:.
 Welcome to my homepage! :handshake: :handshake: 
 
 I am currently a researcher of [the Institute of Innovation for Future Socity (InFuS)](https://www.mirai.nagoya-u.ac.jp/) and [Nagoya Univ., Center for Embedded Computing Systems (NCES)](https://www.nces.i.nagoya-u.ac.jp/) at Nagoya university.  
