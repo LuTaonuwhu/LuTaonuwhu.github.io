@@ -38,7 +38,7 @@ Work experience
   * [AutoNavi Software Co., Ltd](https://mobile.amap.com/)
   * Beijing, China.
   
-Languages
+Skills
 ======
 * C++
 * Python
