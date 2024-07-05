@@ -11,7 +11,7 @@ Hello there :wave::wave:.
 
 Welcome to my homepage! :handshake: :handshake: 
 
-I am currently a researcher of [the Institute of Innovation for Future Socity (InFuS)](https://www.mirai.nagoya-u.ac.jp/) and [Nagoya Univ., Center for Embedded Computing Systems (NCES)](https://www.nces.i.nagoya-u.ac.jp/) at Nagoya University in Japna :japan:.  
+I am currently a researcher of [the Institute of Innovation for Future Socity (InFuS)](https://www.mirai.nagoya-u.ac.jp/) and [Nagoya Univ., Center for Embedded Computing Systems (NCES)](https://www.nces.i.nagoya-u.ac.jp/) at Nagoya University in Japan :japan:.  
 
 I received my B.S. and M.E. degrees from ***Wuhan University***, and my Ph.D. degree from ***Nagoya University***.
 
