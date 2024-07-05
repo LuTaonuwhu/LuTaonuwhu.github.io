@@ -22,7 +22,6 @@ Work experience
 * 2023.08 - Present: ***Researcher***
   * [Institutes of Innovation for Future Society](https://www.mirai.nagoya-u.ac.jp/)
   * [Center for Embedded Computing Systems](https://www.nces.i.nagoya-u.ac.jp/index.html)
-  * Projects involved: [DM2.0](https://www.nces.i.nagoya-u.ac.jp/ddm2/index.html), [AdMobi-DM2](https://www.nces.i.nagoya-u.ac.jp/admobi-dm2/index.html), [CooL4](https://www.road-to-the-l4.go.jp/activity/theme04/)
   * Nagoya University, Nagoya, Japan.
 
 * 2019.04 - 2020.04: ***Teaching Assistant***
@@ -37,14 +36,21 @@ Work experience
 * 2016.07 - 2016.09: ***Internship***
   * [AutoNavi Software Co., Ltd](https://mobile.amap.com/)
   * Beijing, China.
-  
+
+Projects:
+======
+I participate these projects:
+* [Dynamic Map 2.0, DM2.0](https://www.nces.i.nagoya-u.ac.jp/dm2/index.html). 2018.04 ~ 2020.03
+* [Information Communication Platforms for Advanced Mobility Services, AdMobi-DM2](https://www.nces.i.nagoya-u.ac.jp/admobi-dm2/index.html). 2023.08 ~ 
+* [Cooperative Level 4 Automated Mobility Service in Mixed Traffic Environment, CooL4](https://www.road-to-the-l4.go.jp/activity/theme04/). 2023.08 ~
+
 Skills
 ======
 * C++
 * Python
 * :cn:Chinese, :jp:Japanese, :us:English
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
