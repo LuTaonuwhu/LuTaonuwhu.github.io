@@ -27,7 +27,7 @@ Work experience
 * 2019.04 - 2020.04: ***Teaching Assistant***
   * C Programming Language 
   * [DAIDO University](https://www.daido-it.ac.jp/)
-  * Nagoya, Japna.
+  * Nagoya, Japan.
 
 * 2015.07 - 2017.06: ***Internship***
   * [Wuhan KOTEI Informatics, Co., Ltd](http://www.kotei-info.com/)
