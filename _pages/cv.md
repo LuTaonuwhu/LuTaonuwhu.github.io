@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[The Chinese CV.](/files/CV-TAOLU-NU-1-3.pdf)
+[comment]:<[The Chinese CV.](/files/CV-TAOLU-NU-1-3.pdf)>
 
 Education
 ======

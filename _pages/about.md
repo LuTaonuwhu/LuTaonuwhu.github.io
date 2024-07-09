@@ -18,11 +18,12 @@ I received my B.S. and M.E. degrees from ***Wuhan University***, and my Ph.D. de
 ![figure](/images/my_pictures/vision.png "my R&D vsion"){:.align-center width="800px"}
 This figure :point_up: illustrates my R&D vision and shows that my research interests include, but are not limited to:
 - Connected Autonomous Vehicles (CAV)
-- High-Defination (HD) map
 - Dynamic Map (DM) 
 - Vehicle Motion Prediction
 - Sensor Fusion
 - Edge and Cloud Computing
+- Vehicle, Edge and Cloud Cooperation
+- High-Defination (HD) map
 
 
 :peach: News 
