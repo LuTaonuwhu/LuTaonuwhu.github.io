@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2023.08 - Present: ***Researcher***
+* 2023.08 - 2024.08: ***Researcher***
   * [Institutes of Innovation for Future Society](https://www.mirai.nagoya-u.ac.jp/)
   * [Center for Embedded Computing Systems](https://www.nces.i.nagoya-u.ac.jp/index.html)
   * Nagoya University, Nagoya, Japan.
@@ -43,11 +43,11 @@ I participate these projects:
 * [Dynamic Map 2.0, DM2.0](https://www.nces.i.nagoya-u.ac.jp/dm2/index.html). 2018.04 ~ 2020.03
 * [Information Communication Platforms for Advanced Mobility Services, AdMobi-DM2](https://www.nces.i.nagoya-u.ac.jp/admobi-dm2/index.html). 2023.08 ~ 
 * [Cooperative Level 4 Automated Mobility Service in Mixed Traffic Environment, CooL4](https://www.road-to-the-l4.go.jp/activity/theme04/). 2023.08 ~
+* and some commerial R&D projects in [AutoNavi](https://mobile.amap.com/) and [KOTEI](http://www.kotei-info.com/). 2015 ~ 2017
 
 Skills
 ======
-* C++
-* Python
+* C++, Python
 * :cn:Chinese, :jp:Japanese, :us:English
 
 Selected Publications
