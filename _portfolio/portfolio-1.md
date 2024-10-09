@@ -14,3 +14,5 @@ The experimental environments. :point_down:
 :point_right: [Click here to watch the demo!](https://www.bilibili.com/video/BV1WWgVecE9t/?share_source=copy_web&vd_source=5bdac0c7b62f4b18a36429610e8c9197)
 
 :point_right: [Click here to read the paper of the algorithms!](/publication/2024-05-30-paper7)
+
+:point_right: [Click here to read the paper of the system!](/publication/2024-09-17-paper8)
