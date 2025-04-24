@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lu TAO @ Nagoya University"
+title: "Lu TAO @ Wuhan University"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,11 @@ Hello there :wave::wave:.
 
 Welcome to my homepage! :handshake: :handshake: 
 
-I am currently a researcher of [the Institute of Innovation for Future Socity (InFuS)](https://www.mirai.nagoya-u.ac.jp/) and [Nagoya Univ., Center for Embedded Computing Systems (NCES)](https://www.nces.i.nagoya-u.ac.jp/) at Nagoya University in Japan :japan:.  
+I am currently a tenure-track associate professor at [School of Resource and Environment Sciences](https://sres.whu.edu.cn/), Wuhan University, China :cn:.  
 
-I received my B.S. and M.E. degrees from ***Wuhan University***, and my Ph.D. degree from ***Nagoya University***.
+I was a researcher at [the Institute of Innovation for Future Socity (InFuS)](https://www.mirai.nagoya-u.ac.jp/) and [Nagoya Univ., Center for Embedded Computing Systems (NCES)](https://www.nces.i.nagoya-u.ac.jp/), Nagoya University,  Japan :jp:, 2023-2024.  
+
+I received my B.S. and M.E. degrees from ***Wuhan University***, 2010-2017, and my Ph.D. degree from ***Nagoya University***, 2018-2023.
 
 ![figure](/images/my_pictures/vision.png "my R&D vsion"){:.align-center width="800px"}
 This figure :point_up: illustrates my R&D vision and shows that my research interests include, but are not limited to:
