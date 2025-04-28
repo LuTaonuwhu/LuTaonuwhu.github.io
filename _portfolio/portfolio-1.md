@@ -11,6 +11,12 @@ The system architecture. :point_down:
 The experimental environments. :point_down:
 ![CPd](/images/my_pictures/rsu.png){:.align-center width="600px"}
 
+
+How this system works. :point_down:
+https://github.com/user-attachments/assets/d159d860-86da-4876-827d-b2e5a0a30e11
+
+
+
 :point_right: [Click here to watch the demo!](https://www.bilibili.com/video/BV1WWgVecE9t/?share_source=copy_web&vd_source=5bdac0c7b62f4b18a36429610e8c9197)
 
 :point_right: [Click here to read the paper of the algorithms!](/publication/2024-05-30-paper7)
