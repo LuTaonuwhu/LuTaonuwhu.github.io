@@ -16,6 +16,8 @@ The outdoor experiments. :point_down:
 ![CPd](/images/my_pictures/outdoor.png){:.align-center width="500px"}
 
 How the system works. :point_down:
+https://github.com/user-attachments/assets/9b926f7e-a6e4-4e0d-b255-deeb27015d92
+
 
 
 :point_right: [Click here to watch the demo!](https://www.bilibili.com/video/BV1jB4y1D7QC/?share_source=copy_web&vd_source=5bdac0c7b62f4b18a36429610e8c9197)
