@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in **informatics**, *Nagoya University, 2023*
-* **M.E.** in **navigation, guidance, and control**, *Wuhan University, 2017*
-* **B.S.** in **geographic information system**, *Wuhan University, 2014*
+* **Ph.D.** in **Informatics**, *Nagoya University, 2023*
+* **M.E.** in **Navigation, Guidance, and Control**, *Wuhan University, 2017*
+* **B.S.** in **Geographic Information Systems**, *Wuhan University, 2014*
 
 Work experience
 ======
@@ -23,7 +23,11 @@ Work experience
   * [School of Resource and Environment Sciences](https://sres.whu.edu.cn/)
   * Wuhan University, Wuhan, China.
 
-* 2024.09 - 2024.02： ***Director of Algorithms***
+* 2025.03 - now： ***Director of Algorithms(part-time)***
+  * [GOYUMETA Co., Ltd](https://www.goyumeta.com/en/)
+  * Wuhan, China. 
+
+* 2024.09 - 2024.02： ***Director of Algorithms(full-time)***
   * [GOYUMETA Co., Ltd](https://www.goyumeta.com/en/)
   * Wuhan, China. 
 
