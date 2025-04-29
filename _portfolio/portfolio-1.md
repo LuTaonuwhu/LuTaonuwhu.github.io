@@ -19,7 +19,7 @@ How the system works. :point_down:
 
 
 
-:point_right: Click here to watch the full demo: [bilibili](https://www.bilibili.com/video/BV1WWgVecE9t/?share_source=copy_web&vd_source=5bdac0c7b62f4b18a36429610e8c9197), [youtubu](https://www.youtube.com/watch?v=WURn-EkjODM&t=1s)
+:point_right: Click here to watch the full demo: [Bilibili](https://www.bilibili.com/video/BV1WWgVecE9t/?share_source=copy_web&vd_source=5bdac0c7b62f4b18a36429610e8c9197), [Youtubu](https://www.youtube.com/watch?v=WURn-EkjODM&t=1s)
 
 :point_right: [Click here to read the paper of the algorithms!](/publication/2024-05-30-paper7)
 

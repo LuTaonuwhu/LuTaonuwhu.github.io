@@ -22,6 +22,6 @@ How the system works. :point_down:
 
 
 <br />
-:point_right: Click here to watch the full demo: [bilibili](https://www.bilibili.com/video/BV1jB4y1D7QC/?share_source=copy_web&vd_source=5bdac0c7b62f4b18a36429610e8c9197), [youtube](https://www.youtube.com/watch?v=YbeMhmsWTE4)
+:point_right: Click here to watch the full demo: [Bilibili](https://www.bilibili.com/video/BV1jB4y1D7QC/?share_source=copy_web&vd_source=5bdac0c7b62f4b18a36429610e8c9197), [Youtube](https://www.youtube.com/watch?v=YbeMhmsWTE4)
 
 :point_right: [Click here to read the paper!](/publication/2021-07-25-paper5)

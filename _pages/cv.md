@@ -23,11 +23,11 @@ Work experience
   * [School of Resource and Environment Sciences](https://sres.whu.edu.cn/)
   * Wuhan University, Wuhan, China.
 
-* 2025.03 - now： ***Director of Algorithms(part-time)***
+* 2025.03 - now： ***Director of Algorithms (part-time)***
   * [GOYUMETA Co., Ltd](https://www.goyumeta.com/en/)
   * Wuhan, China. 
 
-* 2024.09 - 2024.02： ***Director of Algorithms(full-time)***
+* 2024.09 - 2024.02： ***Director of Algorithms (full-time)***
   * [GOYUMETA Co., Ltd](https://www.goyumeta.com/en/)
   * Wuhan, China. 
 
@@ -60,7 +60,7 @@ I participate these projects:
 
 Skills
 ======
-* C++, Python
+* C++, Python, and whatever I need.:dancer::dancer::dancer:
 * :cn:Chinese, :jp:Japanese, :us:English
 
 Selected Publications
