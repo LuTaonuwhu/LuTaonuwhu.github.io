@@ -1,5 +1,5 @@
 ---
-title: "Edge, Cloud, and Vehicle-based Cooperative Prediction (CPd) system"
+title: "Edge, Cloud, and Vehicle-based Cooperative Prediction (CPd) System"
 excerpt: "A CPd system implemented based on DM. <br/><img src='/images/my_pictures/ECV.png' width='350px'>"
 collection: portfolio
 ---
