@@ -8,9 +8,8 @@ Academic Pages is a Github Pages template for academic websites.
 
 This is a personal academic homepage based on [academicpages](https://academicpages.github.io/). 
 
-It is not suggested to reused this repository to make your homepage.
+It is not suggested to use this repository to make your own homepage.
 
-Maybe, it is better to use the original [academicpages](https://academicpages.github.io/).
 
 ## Running Locally
 
