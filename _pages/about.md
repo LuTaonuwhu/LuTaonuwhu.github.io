@@ -30,5 +30,6 @@ This figure :point_up: illustrates my R&D vision and shows that my research inte
 
 :peach: News 
 ======
+- *"How Accurate Should Prediction Be for Connected Autonomous Vehicles in Mixed Traffic Environments?"* was submitted to ***IEEE TITS***. :muscle::muscle::muscle:
 - [*"Enhancing Autonomous Vehicles’ Situational Awareness with Dynamic Maps: Cooperative Prediction on Edge, Cloud and Vehicle"* was was published in ***IEEE TIV***.](https://ieeexplore.ieee.org/abstract/document/10681463) :clap::clap::clap:
 - [*"Geo-spatial and Temporal Relation Driven Vehicle Motion Prediction: A Geographic Perspective"* was published in ***IEEE TIV***.](https://ieeexplore.ieee.org/abstract/document/10542454) :clap::clap::clap:
