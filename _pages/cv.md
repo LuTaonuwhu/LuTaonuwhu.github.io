@@ -27,7 +27,7 @@ Work experience
   * [GOYUMETA Co., Ltd](https://www.goyumeta.com/en/)
   * Wuhan, China. 
 
-* 2024.09 - 2024.02： ***Director of Algorithms (full-time)***
+* 2024.09 - 2024.02： ***Director of Algorithms***
   * [GOYUMETA Co., Ltd](https://www.goyumeta.com/en/)
   * Wuhan, China. 
 
