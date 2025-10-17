@@ -11,7 +11,7 @@ Hello there :wave::wave:.
 
 Welcome to my homepage! :handshake: :handshake: 
 
-I am currently a tenure-track associate professor at [School of Resource and Environment Sciences](https://sres.whu.edu.cn/), Wuhan University, China :cn:.  
+I am currently an associate researcher (akin to tenure-track associate professor) at [School of Resource and Environment Sciences](https://sres.whu.edu.cn/), Wuhan University, China :cn:.  
 
 I was a researcher at [the Institute of Innovation for Future Socity (InFuS)](https://www.mirai.nagoya-u.ac.jp/) and [Nagoya Univ., Center for Embedded Computing Systems (NCES)](https://www.nces.i.nagoya-u.ac.jp/), Nagoya University,  Japan :jp:, 2023-2024.  
 

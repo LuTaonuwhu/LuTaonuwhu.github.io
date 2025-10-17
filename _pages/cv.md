@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2024.03 - now: ***Tenure-Track Associate Professor***
+* 2024.03 - now: ***Associate Researcher (akin to Tenure-track Associate Professor)***
   * [School of Resource and Environment Sciences](https://sres.whu.edu.cn/)
   * Wuhan University, Wuhan, China.
 
@@ -51,7 +51,11 @@ Work experience
 
 Projects:
 ======
-I participate these projects:
+The research projects I'm leading:
+* **Data Interaction in Vehicle-Road-Cloud Integrated High-Precision Dynamic Maps**, *NSFC(C Type)*, 2026 ~ 2028.
+* **Knowledge Enhanced Dynamic Maps**, *WHU*, 2025 ~ 2027. 
+
+The research projects I have participated in:
 * [Dynamic Map 2.0 Consortium, DM2.0](https://www.nces.i.nagoya-u.ac.jp/dm2/index.html), 2018 ~ 2019.
 * [Dependable Dynamic Map 2.0 Consortium, DDM2.0]( https://www.nces.i.nagoya-u.ac.jp/ddm2/index.html), 2020 ~ 2022.
 * [Research Consortium of Information Communication Platforms for Advanced Mobility Services, AdMobi-DM2](https://www.nces.i.nagoya-u.ac.jp/admobi-dm2/index.html), 2023 ~ 2024.
