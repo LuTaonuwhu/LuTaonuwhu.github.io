@@ -19,15 +19,11 @@ Education
 
 Work experience
 ======
-* 2024.03 - now: ***Associate Researcher (akin to Tenure-track Associate Professor)***
+* 2025.03 - now: ***Associate Researcher (akin to Tenure-track Associate Professor)***
   * [School of Resource and Environment Sciences](https://sres.whu.edu.cn/)
   * Wuhan University, Wuhan, China.
 
-* 2025.03 - now： ***Director of Algorithms (part-time)***
-  * [GOYUMETA Co., Ltd](https://www.goyumeta.com/en/)
-  * Wuhan, China. 
-
-* 2024.09 - 2024.02： ***Director of Algorithms***
+* 2024.09 - now： ***Director of Algorithms (part-time)***
   * [GOYUMETA Co., Ltd](https://www.goyumeta.com/en/)
   * Wuhan, China. 
 
@@ -52,7 +48,7 @@ Work experience
 Projects:
 ======
 The research projects I'm leading:
-* **Data Interaction in Vehicle-Road-Cloud Integrated High-Precision Dynamic Maps**, *NSFC(C Type)*, 2026 ~ 2028.
+* **Data Interaction in Vehicle-Road-Cloud Integrated High-Precision Dynamic Maps**, *NSFC (C)*, 2026 ~ 2028.
 * **Knowledge Enhanced Dynamic Maps**, *WHU*, 2025 ~ 2027. 
 
 The research projects I have participated in:
